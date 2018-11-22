@@ -1,5 +1,5 @@
 {
-  "name": "json-delta",
+  "name": "@warrenseymour/json-delta",
   "version": "1.0.1",
   "description": "Json object diff / patching with configurable short-circuit tolerance.",
   "main": "index.js",
